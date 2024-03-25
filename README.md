@@ -1,7 +1,7 @@
 # 👋🧩 ReVanced Patches template
 
 This is a template for creating a new ReVanced Patches repository.  
-The repository can have multiple patches, and patches from other repositories can be used together.
+The repository can have multiple patches, and patches from other reposffitories can be used together.
 
 For an example repository, see [ReVanced Patches](https://github.com/revanced/revanced-patches).
 
